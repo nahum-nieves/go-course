@@ -11,7 +11,7 @@ func main() {
 	var info = "Hello, World!"
 	fmt.Println(info)
 	info = "Hello, Go!"
-	fmt.Printf(info)
+	fmt.Println(info)
 	// This will cause a compile-time error because the variable "info"
 	//  is of type string and cannot be assigned an integer value.
 	//info = 20;
