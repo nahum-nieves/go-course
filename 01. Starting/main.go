@@ -17,5 +17,6 @@ func main() {
 	fmt.Println("Hello, World!")
 	color.Red("This is a red text")
 }
+
 // go mod init hello-go -- This command is used to initialize a new Go module in the current directory. It creates a go.mod file which is used to manage dependencies for the project.
 // go get github.com/fatih/color -- This command is used to install the color package which is used to print colored text in the terminal.
